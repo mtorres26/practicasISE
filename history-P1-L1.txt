@@ -1,0 +1,1000 @@
+ 1010   24/ 09/ 24 19:04:28 ~ssh -X ac286@atcgrid.ugr.es
+ 1011   24/ 09/ 24 19:04:28 ~sftp ac286@atcgrid.ugr.es
+ 1012   24/ 09/ 24 19:04:28 ~ssh -X ac286@atcgrid.ugr.es
+ 1013   24/ 09/ 24 19:04:28 ~touch .htaccess
+ 1014   24/ 09/ 24 19:04:28 ~git add .
+ 1015   24/ 09/ 24 19:04:28 ~git commit -m "Avanzando muy poco"
+ 1016   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1017   24/ 09/ 24 19:04:28 ~tree
+ 1018   24/ 09/ 24 19:04:28 ~cd ..
+ 1019   24/ 09/ 24 19:04:28 ~cd P3
+ 1020   24/ 09/ 24 19:04:28 ~ls
+ 1021   24/ 09/ 24 19:04:28 ~git add .
+ 1022   24/ 09/ 24 19:04:28 ~git commit -m "Ultimo retoque"
+ 1023   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1024   24/ 09/ 24 19:04:28 ~cd ..
+ 1025   24/ 09/ 24 19:04:28 ~cd P4
+ 1026   24/ 09/ 24 19:04:28 ~ls
+ 1027   24/ 09/ 24 19:04:28 ~cd P4-mtorres26-apache/
+ 1028   24/ 09/ 24 19:04:28 ~ls
+ 1029   24/ 09/ 24 19:04:28 ~cd P4-mtorres26-iptables-web/
+ 1030   24/ 09/ 24 19:04:28 ~ls
+ 1031   24/ 09/ 24 19:04:28 ~clear
+ 1032   24/ 09/ 24 19:04:28 ~touch mtorres26-iptables-web.sh
+ 1033   24/ 09/ 24 19:04:28 ~clear
+ 1034   24/ 09/ 24 19:04:28 ~chmod a+x mtorres26-iptables-web.sh 
+ 1035   24/ 09/ 24 19:04:28 ~ls -l
+ 1036   24/ 09/ 24 19:04:28 ~cd P4-mtorres26-apache/
+ 1037   24/ 09/ 24 19:04:28 ~ls
+ 1038   24/ 09/ 24 19:04:28 ~touch entrypoint.sh
+ 1039   24/ 09/ 24 19:04:28 ~chmod a+x entrypoint.sh 
+ 1040   24/ 09/ 24 19:04:28 ~ls -l
+ 1041   24/ 09/ 24 19:04:28 ~clear
+ 1042   24/ 09/ 24 19:04:28 ~touch regu.txt
+ 1043   24/ 09/ 24 19:04:28 ~ls -l
+ 1044   24/ 09/ 24 19:04:28 ~git add .
+ 1045   24/ 09/ 24 19:04:28 ~git commit -m "Empezando la práctica, sin problemas por ahora"
+ 1046   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1047   24/ 09/ 24 19:04:28 ~sudo apt-get update
+ 1048   24/ 09/ 24 19:04:28 ~sudo apt-get upgrade
+ 1049   24/ 09/ 24 19:04:28 ~sudo apt autoremove
+ 1050   24/ 09/ 24 19:04:28 ~dpkg -i code_1.89.0-1714530869_amd64.deb 
+ 1051   24/ 09/ 24 19:04:28 ~sudo dpkg -i code_1.89.0-1714530869_amd64.deb 
+ 1052   24/ 09/ 24 19:04:28 ~docker compose build
+ 1053   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1054   24/ 09/ 24 19:04:28 ~docker compose build
+ 1055   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1056   24/ 09/ 24 19:04:28 ~docker compose build
+ 1057   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1058   24/ 09/ 24 19:04:28 ~docker compose build
+ 1059   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1060   24/ 09/ 24 19:04:28 ~docker compose build
+ 1061   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1062   24/ 09/ 24 19:04:28 ~docker compose build
+ 1063   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1064   24/ 09/ 24 19:04:28 ~docker compose build
+ 1065   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1066   24/ 09/ 24 19:04:28 ~docker compose build
+ 1067   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1068   24/ 09/ 24 19:04:28 ~docker compose build
+ 1069   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1070   24/ 09/ 24 19:04:28 ~docker compose build
+ 1071   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1072   24/ 09/ 24 19:04:28 ~docker compose build
+ 1073   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1074   24/ 09/ 24 19:04:28 ~docker compose build
+ 1075   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1076   24/ 09/ 24 19:04:28 ~docker compose build
+ 1077   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1078   24/ 09/ 24 19:04:28 ~docker compose build
+ 1079   24/ 09/ 24 19:04:28 ~git add .
+ 1080   24/ 09/ 24 19:04:28 ~git commit -m "Básicas terminadas"
+ 1081   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1082   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1083   24/ 09/ 24 19:04:28 ~docker compose build
+ 1084   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1085   24/ 09/ 24 19:04:28 ~docker compose down
+ 1086   24/ 09/ 24 19:04:28 ~systemctl stop apache2
+ 1087   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1088   24/ 09/ 24 19:04:28 ~docker compose down
+ 1089   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1090   24/ 09/ 24 19:04:28 ~docker compose down
+ 1091   24/ 09/ 24 19:04:28 ~docker ps -a
+ 1092   24/ 09/ 24 19:04:28 ~touch formulario.php
+ 1093   24/ 09/ 24 19:04:28 ~daniel alconchel
+ 1094   24/ 09/ 24 19:04:28 ~cd UGR_NATIVO/
+ 1095   24/ 09/ 24 19:04:28 ~git add .
+ 1096   24/ 09/ 24 19:04:28 ~git commit -m "Avanzando el formulario, con errores"
+ 1097   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1098   24/ 09/ 24 19:04:28 ~git add .
+ 1099   24/ 09/ 24 19:04:28 ~git commit -m "Terminado el ejercicio del formulario"
+ 1100   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1101   24/ 09/ 24 19:04:28 ~touch usoCookies.php
+ 1102   24/ 09/ 24 19:04:28 ~touch idiomas.json
+ 1103   24/ 09/ 24 19:04:28 ~touch ejer10.php
+ 1104   24/ 09/ 24 19:04:28 ~touch dobleSubmit.php
+ 1105   24/ 09/ 24 19:04:28 ~git add .
+ 1106   24/ 09/ 24 19:04:28 ~commit -m "Avanzando hasta el ejercicio 12"
+ 1107   24/ 09/ 24 19:04:28 ~git commit -m "Avanzando hasta el ejercicio 12"
+ 1108   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1109   24/ 09/ 24 19:04:28 ~touch dobleSubmitv2.php
+ 1110   24/ 09/ 24 19:04:28 ~touch ejer13.php
+ 1111   24/ 09/ 24 19:04:28 ~touch tresEnRaya.php
+ 1112   24/ 09/ 24 19:04:28 ~git add .
+ 1113   24/ 09/ 24 19:04:28 ~git commit -m "Avanzando hasta el tres en raya"
+ 1114   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1115   24/ 09/ 24 19:04:28 ~git add .
+ 1116   24/ 09/ 24 19:04:28 ~git commit -m "Todavia 3enraya"
+ 1117   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1118   24/ 09/ 24 19:04:28 ~sudo dpkg -i code_1.89.1-1715060508_amd64.deb 
+ 1119   24/ 09/ 24 19:04:28 ~sudo apt-get install mysql-server
+ 1120   24/ 09/ 24 19:04:28 ~mysql-server
+ 1121   24/ 09/ 24 19:04:28 ~mysql
+ 1122   24/ 09/ 24 19:04:28 ~sudo mysql
+ 1123   24/ 09/ 24 19:04:28 ~find . -iname mysql.pid
+ 1124   24/ 09/ 24 19:04:28 ~sudo find . -iname mysql.pid
+ 1125   24/ 09/ 24 19:04:28 ~sudo find . -iname mysqld.pid
+ 1126   24/ 09/ 24 19:04:28 ~sudo find . -iname mtorres.pid
+ 1127   24/ 09/ 24 19:04:28 ~sudo find . -name "*.pid"
+ 1128   24/ 09/ 24 19:04:28 ~cd ..
+ 1129   24/ 09/ 24 19:04:28 ~sudo find . -name "*.pid"
+ 1130   24/ 09/ 24 19:04:28 ~systemctl start mysql
+ 1131   24/ 09/ 24 19:04:28 ~sudo find . -name "*.pid"
+ 1132   24/ 09/ 24 19:04:28 ~mysql_secure_installation
+ 1133   24/ 09/ 24 19:04:28 ~mysql
+ 1134   24/ 09/ 24 19:04:28 ~systemctl stop mysql
+ 1135   24/ 09/ 24 19:04:28 ~systemctl start mysql --skip-grant-tables
+ 1136   24/ 09/ 24 19:04:28 ~mysqlctl start mysql --skip-grant-tables
+ 1137   24/ 09/ 24 19:04:28 ~systemctl start mysql --skip-grant-tables
+ 1138   24/ 09/ 24 19:04:28 ~systemctl start mysql 
+ 1139   24/ 09/ 24 19:04:28 ~sudo mysql
+ 1140   24/ 09/ 24 19:04:28 ~mysql
+ 1141   24/ 09/ 24 19:04:28 ~mysqld
+ 1142   24/ 09/ 24 19:04:28 ~mysqld --user=mysql
+ 1143   24/ 09/ 24 19:04:28 ~mysqld --user=mtorres
+ 1144   24/ 09/ 24 19:04:28 ~mysqld --user=root
+ 1145   24/ 09/ 24 19:04:28 ~systemctl stop mysql
+ 1146   24/ 09/ 24 19:04:28 ~git add .
+ 1147   24/ 09/ 24 19:04:28 ~git commit -m "Tres en raya terminado"
+ 1148   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1149   24/ 09/ 24 19:04:28 ~chmod a+r mysql-init
+ 1150   24/ 09/ 24 19:04:28 ~ls -l
+ 1151   24/ 09/ 24 19:04:28 ~find . -name "*.ini"
+ 1152   24/ 09/ 24 19:04:28 ~find . -iname "my.ini"
+ 1153   24/ 09/ 24 19:04:28 ~sudo find . -iname "my.ini"
+ 1154   24/ 09/ 24 19:04:28 ~sudo find . -iname my.ini
+ 1155   24/ 09/ 24 19:04:28 ~find . -name "*.ini"
+ 1156   24/ 09/ 24 19:04:28 ~sudo find . -name "*.ini"
+ 1157   24/ 09/ 24 19:04:28 ~kill `cat /var/lib/mysql/mtorres.pid`
+ 1158   24/ 09/ 24 19:04:28 ~sudo kill `cat /var/lib/mysql/mtorres.pid`
+ 1159   24/ 09/ 24 19:04:28 ~find / -name "*.pid"
+ 1160   24/ 09/ 24 19:04:28 ~find /var -name "*.pid"
+ 1161   24/ 09/ 24 19:04:28 ~sudo find /var -name "*.pid"
+ 1162   24/ 09/ 24 19:04:28 ~sudo kill `cat /var/lib/mysql/mtorres.pid`
+ 1163   24/ 09/ 24 19:04:28 ~kill `cat /var/lib/mysql/mtorres.pid`
+ 1164   24/ 09/ 24 19:04:28 ~kill `sudo cat /var/lib/mysql/mtorres.pid`
+ 1165   24/ 09/ 24 19:04:28 ~sudo kill `sudo cat /var/lib/mysql/mtorres.pid`
+ 1166   24/ 09/ 24 19:04:28 ~sudo find /var -name "*.pid"
+ 1167   24/ 09/ 24 19:04:28 ~touch mysql-init
+ 1168   24/ 09/ 24 19:04:28 ~mysqld --init-file=/home/mtorres/mysql-init &
+ 1169   24/ 09/ 24 19:04:28 ~mysql --init-file=/home/mtorres/mysql-init &
+ 1170   24/ 09/ 24 19:04:28 ~mysqld --init-file=/home/mtorres/mysql-init &
+ 1171   24/ 09/ 24 19:04:28 ~sudo mysqld --init-file=/home/mtorres/mysql-init &
+ 1172   24/ 09/ 24 19:04:28 ~systemctl stop mysqld
+ 1173   24/ 09/ 24 19:04:28 ~sudo systemctl stop mysqld
+ 1174   24/ 09/ 24 19:04:28 ~systemctl stop mysqld
+ 1175   24/ 09/ 24 19:04:28 ~sudo systemctl stop mysql
+ 1176   24/ 09/ 24 19:04:28 ~sudo systemctl start mysql
+ 1177   24/ 09/ 24 19:04:28 ~sudo systemctl start mysqld
+ 1178   24/ 09/ 24 19:04:28 ~mysql
+ 1179   24/ 09/ 24 19:04:28 ~mysqld
+ 1180   24/ 09/ 24 19:04:28 ~mysql_secure_installation
+ 1181   24/ 09/ 24 19:04:28 ~mysql
+ 1182   24/ 09/ 24 19:04:28 ~mysql_secure_installation
+ 1183   24/ 09/ 24 19:04:28 ~mysql
+ 1184   24/ 09/ 24 19:04:28 ~mysqkd
+ 1185   24/ 09/ 24 19:04:28 ~mysqld
+ 1186   24/ 09/ 24 19:04:28 ~mysql_secure_installation
+ 1187   24/ 09/ 24 19:04:28 ~cat /etc/mysql/my.cnf
+ 1188   24/ 09/ 24 19:04:28 ~systemctl start mysql.service
+ 1189   24/ 09/ 24 19:04:28 ~mysql
+ 1190   24/ 09/ 24 19:04:28 ~sudo mysql
+ 1191   24/ 09/ 24 19:04:28 ~mysql -u root
+ 1192   24/ 09/ 24 19:04:28 ~mysql -u root -p aaa
+ 1193   24/ 09/ 24 19:04:28 ~mysql -u root -p
+ 1194   24/ 09/ 24 19:04:28 ~mysql -u root
+ 1195   24/ 09/ 24 19:04:28 ~sudo servicer mysql stop
+ 1196   24/ 09/ 24 19:04:28 ~sudo service mysql stop
+ 1197   24/ 09/ 24 19:04:28 ~ps axo user,pid,comm | grep mysql
+ 1198   24/ 09/ 24 19:04:28 ~sudo su
+ 1199   24/ 09/ 24 19:04:28 ~ps user,pid,comm | grep mysql
+ 1200   24/ 09/ 24 19:04:28 ~ps axo user,pid,comm | grep mysql
+ 1201   24/ 09/ 24 19:04:28 ~sudo service mysql start
+ 1202   24/ 09/ 24 19:04:28 ~ps axo user,pid,comm | grep mysql
+ 1203   24/ 09/ 24 19:04:28 ~sudo service mysql stop
+ 1204   24/ 09/ 24 19:04:28 ~sudo mkdir -p /var/run/mysqld
+ 1205   24/ 09/ 24 19:04:28 ~sudo chown mysql:mysql /var/run/mysqld
+ 1206   24/ 09/ 24 19:04:28 ~sudo /usr/sbin/mysqld --skip-grant-tables --skip-networking &
+ 1207   24/ 09/ 24 19:04:28 ~mysql -u root
+ 1208   24/ 09/ 24 19:04:28 ~sudo pkill mysqld
+ 1209   24/ 09/ 24 19:04:28 ~sudo service mysql start
+ 1210   24/ 09/ 24 19:04:28 ~mysql
+ 1211   24/ 09/ 24 19:04:28 ~mysqld
+ 1212   24/ 09/ 24 19:04:28 ~mysql_secure_installation
+ 1213   24/ 09/ 24 19:04:28 ~mysql
+ 1214   24/ 09/ 24 19:04:28 ~mysql -u root
+ 1215   24/ 09/ 24 19:04:28 ~mysql
+ 1216   24/ 09/ 24 19:04:28 ~mysql -u root -p
+ 1217   24/ 09/ 24 19:04:28 ~mysql -u root
+ 1218   24/ 09/ 24 19:04:28 ~mysql -u mysql
+ 1219   24/ 09/ 24 19:04:28 ~mysql -u mysql -p
+ 1220   24/ 09/ 24 19:04:28 ~mysql -u mtorres
+ 1221   24/ 09/ 24 19:04:28 ~mysql -u mtorres -p
+ 1222   24/ 09/ 24 19:04:28 ~mysql -u root -p
+ 1223   24/ 09/ 24 19:04:28 ~service mysqld stop
+ 1224   24/ 09/ 24 19:04:28 ~service mysqld start
+ 1225   24/ 09/ 24 19:04:28 ~service mysqld stop
+ 1226   24/ 09/ 24 19:04:28 ~mysqld_safe --skip-grant-tables --skip-networking&
+ 1227   24/ 09/ 24 19:04:28 ~mysql --version
+ 1228   24/ 09/ 24 19:04:28 ~mysql
+ 1229   24/ 09/ 24 19:04:28 ~mysql -u root
+ 1230   24/ 09/ 24 19:04:28 ~mysql -u fbd
+ 1231   24/ 09/ 24 19:04:28 ~sudo service mysql stop
+ 1232   24/ 09/ 24 19:04:28 ~sudo mysqld_safe --skip-grant-tables --skip-networking &
+ 1233   24/ 09/ 24 19:04:28 ~find /var -name "*.pid"
+ 1234   24/ 09/ 24 19:04:28 ~sudo find /var -name "*.pid"
+ 1235   24/ 09/ 24 19:04:28 ~touch mysql-init
+ 1236   24/ 09/ 24 19:04:28 ~vim mysql-init 
+ 1237   24/ 09/ 24 19:04:28 ~chmod a+r mysql-init 
+ 1238   24/ 09/ 24 19:04:28 ~mysqld --init-file=/home/mtorres/mysql-init &
+ 1239   24/ 09/ 24 19:04:28 ~cat /var/log/mysql/error.log
+ 1240   24/ 09/ 24 19:04:28 ~clear
+ 1241   24/ 09/ 24 19:04:28 ~cat /var/log/mysql/error.log
+ 1242   24/ 09/ 24 19:04:28 ~clear
+ 1243   24/ 09/ 24 19:04:28 ~sudo su
+ 1244   24/ 09/ 24 19:04:28 ~systemctl start mysql
+ 1245   24/ 09/ 24 19:04:28 ~systemctl start mysqld
+ 1246   24/ 09/ 24 19:04:28 ~sudo su
+ 1247   24/ 09/ 24 19:04:28 ~sudo apt-get update
+ 1248   24/ 09/ 24 19:04:28 ~sudo apt-get upgrade
+ 1249   24/ 09/ 24 19:04:28 ~sudo apt autoremove
+ 1250   24/ 09/ 24 19:04:28 ~clear
+ 1251   24/ 09/ 24 19:04:28 ~mysql
+ 1252   24/ 09/ 24 19:04:28 ~find /var -name "*.pid"
+ 1253   24/ 09/ 24 19:04:28 ~sudo find /var -name "*.pid"
+ 1254   24/ 09/ 24 19:04:28 ~cat /var/lib/mysql/mtorres.pid
+ 1255   24/ 09/ 24 19:04:28 ~sudo cat /var/lib/mysql/mtorres.pid
+ 1256   24/ 09/ 24 19:04:28 ~kill 1287
+ 1257   24/ 09/ 24 19:04:28 ~sudo kill 1287
+ 1258   24/ 09/ 24 19:04:28 ~sudo cat /var/lib/mysql/mtorres.pid
+ 1259   24/ 09/ 24 19:04:28 ~mysqld --init-file=/home/mtorres/mysql-init &
+ 1260   24/ 09/ 24 19:04:28 ~sudo cat /var/lib/mysql/mtorres.pid
+ 1261   24/ 09/ 24 19:04:28 ~systemctl restart mysql
+ 1262   24/ 09/ 24 19:04:28 ~systemctl restart mysqld
+ 1263   24/ 09/ 24 19:04:28 ~mysql
+ 1264   24/ 09/ 24 19:04:28 ~mysql -u root -p
+ 1265   24/ 09/ 24 19:04:28 ~mysql -u root 
+ 1266   24/ 09/ 24 19:04:28 ~mysql -u mtorres -p
+ 1267   24/ 09/ 24 19:04:28 ~sudo cat /var/lib/mysql/mtorres.pid
+ 1268   24/ 09/ 24 19:04:28 ~sudo kill 1287
+ 1269   24/ 09/ 24 19:04:28 ~sudo kill 8703
+ 1270   24/ 09/ 24 19:04:28 ~mysql -u mtorres -p
+ 1271   24/ 09/ 24 19:04:28 ~systemctl start mysqld
+ 1272   24/ 09/ 24 19:04:28 ~systemctl start mysql
+ 1273   24/ 09/ 24 19:04:28 ~mysql -u root -p
+ 1274   24/ 09/ 24 19:04:28 ~systemctl stop mysql
+ 1275   24/ 09/ 24 19:04:28 ~sudo cat /var/lib/mysql/mtorres.pid
+ 1276   24/ 09/ 24 19:04:28 ~systemctl start mysql --skip-gran-tables 
+ 1277   24/ 09/ 24 19:04:28 ~systemctl start mysql --skip-grant-tables 
+ 1278   24/ 09/ 24 19:04:28 ~systemctl restart mysql --skip-grant-tables 
+ 1279   24/ 09/ 24 19:04:28 ~systemctl restart mysqld --skip-grant-tables 
+ 1280   24/ 09/ 24 19:04:28 ~systemctl restart mysqld --skip-grant-tables &
+ 1281   24/ 09/ 24 19:04:28 ~kill 9675
+ 1282   24/ 09/ 24 19:04:28 ~systemctl restart mysql
+ 1283   24/ 09/ 24 19:04:28 ~systemctl stop mysql 
+ 1284   24/ 09/ 24 19:04:28 ~systemctl start mysql skip-grant-tables
+ 1285   24/ 09/ 24 19:04:28 ~systemctl start mysql -skip-grant-tables
+ 1286   24/ 09/ 24 19:04:28 ~systemctl start mysql skip-grant-tables
+ 1287   24/ 09/ 24 19:04:28 ~mysql --skip-grant-tables
+ 1288   24/ 09/ 24 19:04:28 ~mysql skip-grant-tables
+ 1289   24/ 09/ 24 19:04:28 ~systemctl stop mysql
+ 1290   24/ 09/ 24 19:04:28 ~sudo vim /etc/mysql/my.cnf
+ 1291   24/ 09/ 24 19:04:28 ~systemctl restart mysql
+ 1292   24/ 09/ 24 19:04:28 ~mysql -u root 
+ 1293   24/ 09/ 24 19:04:28 ~mysql 
+ 1294   24/ 09/ 24 19:04:28 ~sudo vim /etc/mysql/my.cnf
+ 1295   24/ 09/ 24 19:04:28 ~systemctl restart mysql
+ 1296   24/ 09/ 24 19:04:28 ~mysql 
+ 1297   24/ 09/ 24 19:04:28 ~systemctl restart mysql
+ 1298   24/ 09/ 24 19:04:28 ~mysql 
+ 1299   24/ 09/ 24 19:04:28 ~sudo vim /etc/mysql/my.cnf
+ 1300   24/ 09/ 24 19:04:28 ~systemctl restart mysql
+ 1301   24/ 09/ 24 19:04:28 ~mysql 
+ 1302   24/ 09/ 24 19:04:28 ~mysql
+ 1303   24/ 09/ 24 19:04:28 ~mysql -p abcd1234
+ 1304   24/ 09/ 24 19:04:28 ~mysql -u mtorres -p abcd1234
+ 1305   24/ 09/ 24 19:04:28 ~systemctl restart mysql
+ 1306   24/ 09/ 24 19:04:28 ~mysql
+ 1307   24/ 09/ 24 19:04:28 ~sudo vim /etc/mysql/my.cnf
+ 1308   24/ 09/ 24 19:04:28 ~systemctl stop mysql
+ 1309   24/ 09/ 24 19:04:28 ~mysql --init-file=/home/mtorres/mysql-init &
+ 1310   24/ 09/ 24 19:04:28 ~mysqld --init-file=/home/mtorres/mysql-init &
+ 1311   24/ 09/ 24 19:04:28 ~mysql -u root
+ 1312   24/ 09/ 24 19:04:28 ~systemctl restart mysql
+ 1313   24/ 09/ 24 19:04:28 ~mysql -u root
+ 1314   24/ 09/ 24 19:04:28 ~mysql -u root -p
+ 1315   24/ 09/ 24 19:04:28 ~systemctl restart mysql
+ 1316   24/ 09/ 24 19:04:28 ~mysql -u root -p
+ 1317   24/ 09/ 24 19:04:28 ~sudo vim /etc/mysql/my.cnf
+ 1318   24/ 09/ 24 19:04:28 ~systemctl restart mysql
+ 1319   24/ 09/ 24 19:04:28 ~mysql
+ 1320   24/ 09/ 24 19:04:28 ~systemctl restart mysql
+ 1321   24/ 09/ 24 19:04:28 ~mysql
+ 1322   24/ 09/ 24 19:04:28 ~systemctl restart mysql
+ 1323   24/ 09/ 24 19:04:28 ~mysql -u mysql
+ 1324   24/ 09/ 24 19:04:28 ~systemctl restart mysql
+ 1325   24/ 09/ 24 19:04:28 ~mysql -u mtorres
+ 1326   24/ 09/ 24 19:04:28 ~mysql -u mtorres -p
+ 1327   24/ 09/ 24 19:04:28 ~find / -name "uninstall*"
+ 1328   24/ 09/ 24 19:04:28 ~sudo find / -name "uninstall*"
+ 1329   24/ 09/ 24 19:04:28 ~sudo find / -name "uninstall*" | grep sql
+ 1330   24/ 09/ 24 19:04:28 ~sudo systemctl stop mysql
+ 1331   24/ 09/ 24 19:04:28 ~sudo systemctl stop mysql.service
+ 1332   24/ 09/ 24 19:04:28 ~sudo apt-get remove --purge mysql-server mysql-client mysql-common
+ 1333   24/ 09/ 24 19:04:28 ~sudo rm -rf /etc/mysql /var/lib/mysql
+ 1334   24/ 09/ 24 19:04:28 ~sudo deluser mysql
+ 1335   24/ 09/ 24 19:04:28 ~sudo find / -name "*mysql*"
+ 1336   24/ 09/ 24 19:04:28 ~touch passwdmysql.txt
+ 1337   24/ 09/ 24 19:04:28 ~touch userpasswdmysql.txt
+ 1338   24/ 09/ 24 19:04:28 ~vim userpasswdmysql.txt 
+ 1339   24/ 09/ 24 19:04:28 ~clear
+ 1340   24/ 09/ 24 19:04:28 ~sudo apt-get remove --purge mysql-*
+ 1341   24/ 09/ 24 19:04:28 ~sudo apt-get remove --purge mysql
+ 1342   24/ 09/ 24 19:04:28 ~sudo apt-get remove --purge mysql*
+ 1343   24/ 09/ 24 19:04:28 ~sudo apt-get autoremove
+ 1344   24/ 09/ 24 19:04:28 ~sudo apt-get update
+ 1345   24/ 09/ 24 19:04:28 ~sudo apt-get upgrade
+ 1346   24/ 09/ 24 19:04:28 ~sudo apt-get install mysql-server
+ 1347   24/ 09/ 24 19:04:28 ~mysql_secure_installation
+ 1348   24/ 09/ 24 19:04:28 ~sudo vim /etc/mysql/my.cnf
+ 1349   24/ 09/ 24 19:04:28 ~systemctl restart mysql
+ 1350   24/ 09/ 24 19:04:28 ~mysql
+ 1351   24/ 09/ 24 19:04:28 ~alter user 'root'@'localhost' identified with mysql_native_password by 'aaa123';
+ 1352   24/ 09/ 24 19:04:28 ~systemctl restart mysql
+ 1353   24/ 09/ 24 19:04:28 ~mysql
+ 1354   24/ 09/ 24 19:04:28 ~mysql -u root -p
+ 1355   24/ 09/ 24 19:04:28 ~systemctl restart mysql
+ 1356   24/ 09/ 24 19:04:28 ~mysql
+ 1357   24/ 09/ 24 19:04:28 ~mysql -u root -p
+ 1358   24/ 09/ 24 19:04:28 ~systemctl restart mysql
+ 1359   24/ 09/ 24 19:04:28 ~mysql -u mtorres -p
+ 1360   24/ 09/ 24 19:04:28 ~sudo vim /etc/mysql/my.cnf
+ 1361   24/ 09/ 24 19:04:28 ~mysql -u mtorres -p
+ 1362   24/ 09/ 24 19:04:28 ~systemctl restart mysql
+ 1363   24/ 09/ 24 19:04:28 ~mysql -u mtorres -p
+ 1364   24/ 09/ 24 19:04:28 ~mysql -u root -p
+ 1365   24/ 09/ 24 19:04:28 ~mysql -u mtorres -p
+ 1366   24/ 09/ 24 19:04:28 ~mysql -u root -p
+ 1367   24/ 09/ 24 19:04:28 ~mysql_secure_installation
+ 1368   24/ 09/ 24 19:04:28 ~mysql
+ 1369   24/ 09/ 24 19:04:28 ~mysql -u root
+ 1370   24/ 09/ 24 19:04:28 ~mysql -u root -p
+ 1371   24/ 09/ 24 19:04:28 ~mysql -u mtorres -p
+ 1372   24/ 09/ 24 19:04:28 ~mysql -u root -p
+ 1373   24/ 09/ 24 19:04:28 ~mysqladmin -u mtorres -p aaa123 'aaaa1234'
+ 1374   24/ 09/ 24 19:04:28 ~mysqladmin -u mtorres
+ 1375   24/ 09/ 24 19:04:28 ~mysqladmin
+ 1376   24/ 09/ 24 19:04:28 ~mysqladmin -u  mtorres -p
+ 1377   24/ 09/ 24 19:04:28 ~mysql
+ 1378   24/ 09/ 24 19:04:28 ~mysql -p
+ 1379   24/ 09/ 24 19:04:28 ~mysql -u root
+ 1380   24/ 09/ 24 19:04:28 ~mysql -u root -p
+ 1381   24/ 09/ 24 19:04:28 ~systemctl status mysql
+ 1382   24/ 09/ 24 19:04:28 ~systemctl status mysql.service
+ 1383   24/ 09/ 24 19:04:28 ~systemctl status mysqld
+ 1384   24/ 09/ 24 19:04:28 ~mysql -u root -p
+ 1385   24/ 09/ 24 19:04:28 ~mysql -u mtorres -p
+ 1386   24/ 09/ 24 19:04:28 ~touch index.html
+ 1387   24/ 09/ 24 19:04:28 ~cd
+ 1388   24/ 09/ 24 19:04:28 ~cd /
+ 1389   24/ 09/ 24 19:04:28 ~cat /etc/apache2/apache2.conf 
+ 1390   24/ 09/ 24 19:04:28 ~cat /etc/apache2/envvars 
+ 1391   24/ 09/ 24 19:04:28 ~cat /etc/apache2/sites-available/000-default.conf 
+ 1392   24/ 09/ 24 19:04:28 ~sudo apt-get install phpmyadmin php-mbstring php-gettext -y
+ 1393   24/ 09/ 24 19:04:28 ~sudo apt-get install phpmyadmin php-mbstring -y
+ 1394   24/ 09/ 24 19:04:28 ~sudo apt-get remove --purge phpmyadmin php-mbstring
+ 1395   24/ 09/ 24 19:04:28 ~mysql -u root -p
+ 1396   24/ 09/ 24 19:04:28 ~mysql -u mtorres -p
+ 1397   24/ 09/ 24 19:04:28 ~mysql -u root -p
+ 1398   24/ 09/ 24 19:04:28 ~mysql -u mtorres262324 -p
+ 1399   24/ 09/ 24 19:04:28 ~sudo apt-get install phpmyadmin php-mbstring -y
+ 1400   24/ 09/ 24 19:04:28 ~systemctl restart apache2
+ 1401   24/ 09/ 24 19:04:28 ~vim /etc/apache2/apache2.conf 
+ 1402   24/ 09/ 24 19:04:28 ~apache2 --version
+ 1403   24/ 09/ 24 19:04:28 ~vim /etc/apache2/apache2.conf 
+ 1404   24/ 09/ 24 19:04:28 ~vim /etc/apache2/apache2.conf | grep conf/extra
+ 1405   24/ 09/ 24 19:04:28 ~vim /etc/apache2/apache2.conf
+ 1406   24/ 09/ 24 19:04:28 ~vim /etc/apache2/mods-enabled/userdir.conf
+ 1407   24/ 09/ 24 19:04:28 ~chmod 755 /home/mtorres/public_html
+ 1408   24/ 09/ 24 19:04:28 ~chmod 755 /home/mtorres/public_html/practicaPHP
+ 1409   24/ 09/ 24 19:04:28 ~chmod 644 /home/mtorres/public_html/practicaPHP/*
+ 1410   24/ 09/ 24 19:04:28 ~cat /etc/apache2/mods-enabled/userdir.conf 
+ 1411   24/ 09/ 24 19:04:28 ~systemctl restart apache2
+ 1412   24/ 09/ 24 19:04:28 ~sudo a2enmod userdir
+ 1413   24/ 09/ 24 19:04:28 ~sudo systemctl restart apache2
+ 1414   24/ 09/ 24 19:04:28 ~cd
+ 1415   24/ 09/ 24 19:04:28 ~phpmyadmin
+ 1416   24/ 09/ 24 19:04:28 ~sudo apt-get remove --purge phpmyadmin php-mbstring
+ 1417   24/ 09/ 24 19:04:28 ~sudo apt-get install phpmyadmin php-mbstring -y
+ 1418   24/ 09/ 24 19:04:28 ~cat /etc/phpmyadmin/config-db.php
+ 1419   24/ 09/ 24 19:04:28 ~sudo cat /etc/phpmyadmin/config-db.php
+ 1420   24/ 09/ 24 19:04:28 ~sudo vim /etc/dbconfig-common/phpmyadmin.conf 
+ 1421   24/ 09/ 24 19:04:28 ~sudo cat /etc/phpmyadmin/config-db.php
+ 1422   24/ 09/ 24 19:04:28 ~systemctl restart apache2
+ 1423   24/ 09/ 24 19:04:28 ~systemctl restart phpmyadmin
+ 1424   24/ 09/ 24 19:04:28 ~sudo cat /etc/phpmyadmin/config-db.php
+ 1425   24/ 09/ 24 19:04:28 ~sudo vim /etc/dbconfig-common/phpmyadmin.conf 
+ 1426   24/ 09/ 24 19:04:28 ~dpkg-reconfigure phpmyadmin
+ 1427   24/ 09/ 24 19:04:28 ~sudo dpkg-reconfigure phpmyadmin
+ 1428   24/ 09/ 24 19:04:28 ~sudo vim /etc/dbconfig-common/phpmyadmin.conf 
+ 1429   24/ 09/ 24 19:04:28 ~sudo dpkg-reconfigure phpmyadmin
+ 1430   24/ 09/ 24 19:04:28 ~sudo vim /etc/dbconfig-common/phpmyadmin.conf 
+ 1431   24/ 09/ 24 19:04:28 ~sudo dpkg-reconfigure phpmyadmin
+ 1432   24/ 09/ 24 19:04:28 ~sudo vim /etc/dbconfig-common/phpmyadmin.conf 
+ 1433   24/ 09/ 24 19:04:28 ~systemctl restart phpmyadmin
+ 1434   24/ 09/ 24 19:04:28 ~systemctl restart apache2
+ 1435   24/ 09/ 24 19:04:28 ~mysql
+ 1436   24/ 09/ 24 19:04:28 ~mysql -u mtorres262324 -p
+ 1437   24/ 09/ 24 19:04:28 ~systemctl start phpmyadmin
+ 1438   24/ 09/ 24 19:04:28 ~sudo apt-get install phpmyadmin
+ 1439   24/ 09/ 24 19:04:28 ~sudo vim /etc/dbconfig-common/phpmyadmin.conf 
+ 1440   24/ 09/ 24 19:04:28 ~sudo dpkg-reconfigure phpmyadmin
+ 1441   24/ 09/ 24 19:04:28 ~ls /etc/phpmyadmin/apache.conf 
+ 1442   24/ 09/ 24 19:04:28 ~cat /etc/phpmyadmin/apache.conf 
+ 1443   24/ 09/ 24 19:04:28 ~ls -l /etc/apache2/conf-enabled/
+ 1444   24/ 09/ 24 19:04:28 ~ls -l /etc/apache2/conf-available/
+ 1445   24/ 09/ 24 19:04:28 ~sudo ln -s /etc/phpmyadmin/apache.conf /etc/apache2/conf-available/phpmyadmin.conf
+ 1446   24/ 09/ 24 19:04:28 ~sudo a2enconf phpmyadmin
+ 1447   24/ 09/ 24 19:04:28 ~systemctl restart apache2
+ 1448   24/ 09/ 24 19:04:28 ~mysql -u root -p
+ 1449   24/ 09/ 24 19:04:28 ~touch ejer15_a.php
+ 1450   24/ 09/ 24 19:04:28 ~touch ejer15_b.php
+ 1451   24/ 09/ 24 19:04:28 ~touch ejer15_c.php
+ 1452   24/ 09/ 24 19:04:28 ~mysqli
+ 1453   24/ 09/ 24 19:04:28 ~mysqld
+ 1454   24/ 09/ 24 19:04:28 ~sudo apt-get update
+ 1455   24/ 09/ 24 19:04:28 ~sudo apt-get upgrade
+ 1456   24/ 09/ 24 19:04:28 ~sudo apt-get update
+ 1457   24/ 09/ 24 19:04:28 ~sudo apt autoremove
+ 1458   24/ 09/ 24 19:04:28 ~sudo apt purge
+ 1459   24/ 09/ 24 19:04:28 ~sudo apt remove cmatrix
+ 1460   24/ 09/ 24 19:04:28 ~sudo apt-get update
+ 1461   24/ 09/ 24 19:04:28 ~sudo apt-get upgrade
+ 1462   24/ 09/ 24 19:04:28 ~touch datosbbdd.php
+ 1463   24/ 09/ 24 19:04:28 ~touch conexionbbdd.php
+ 1464   24/ 09/ 24 19:04:28 ~touch funcionesbbdd.php
+ 1465   24/ 09/ 24 19:04:28 ~git add .
+ 1466   24/ 09/ 24 19:04:28 ~git commit -m "A medias con el ejercicio 15"
+ 1467   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1468   24/ 09/ 24 19:04:28 ~git add ejer15_a.php 
+ 1469   24/ 09/ 24 19:04:28 ~git commit -m "Avanzando ejercicio"
+ 1470   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1471   24/ 09/ 24 19:04:28 ~touch index.html
+ 1472   24/ 09/ 24 19:04:28 ~git add .
+ 1473   24/ 09/ 24 19:04:28 ~git commit -m "Terminado hasta el primer apartado del ejercicio 15"
+ 1474   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1475   24/ 09/ 24 19:04:28 ~systemctl stop apache2
+ 1476   24/ 09/ 24 19:04:28 ~docker compose build
+ 1477   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1478   24/ 09/ 24 19:04:28 ~docker compose down
+ 1479   24/ 09/ 24 19:04:28 ~systemctl start apache2
+ 1480   24/ 09/ 24 19:04:28 ~mysql
+ 1481   24/ 09/ 24 19:04:28 ~mysql -p
+ 1482   24/ 09/ 24 19:04:28 ~systemctl stop aapache2
+ 1483   24/ 09/ 24 19:04:28 ~systemctl stop apache2
+ 1484   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1485   24/ 09/ 24 19:04:28 ~docker ps
+ 1486   24/ 09/ 24 19:04:28 ~docker logs balanceador-nginx 
+ 1487   24/ 09/ 24 19:04:28 ~docker compose down
+ 1488   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1489   24/ 09/ 24 19:04:28 ~docker ps
+ 1490   24/ 09/ 24 19:04:28 ~docker compose down
+ 1491   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1492   24/ 09/ 24 19:04:28 ~docker ps
+ 1493   24/ 09/ 24 19:04:28 ~docker logs balanceador-nginx 
+ 1494   24/ 09/ 24 19:04:28 ~docker compose down
+ 1495   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1496   24/ 09/ 24 19:04:28 ~docker ps
+ 1497   24/ 09/ 24 19:04:28 ~docker compose down
+ 1498   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1499   24/ 09/ 24 19:04:28 ~docker compose down
+ 1500   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1501   24/ 09/ 24 19:04:28 ~docker compose build
+ 1502   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1503   24/ 09/ 24 19:04:28 ~docker compose down
+ 1504   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1505   24/ 09/ 24 19:04:28 ~docker compose build
+ 1506   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1507   24/ 09/ 24 19:04:28 ~docker ps
+ 1508   24/ 09/ 24 19:04:28 ~docker compose down
+ 1509   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1510   24/ 09/ 24 19:04:28 ~docker compose build
+ 1511   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1512   24/ 09/ 24 19:04:28 ~docker compose down
+ 1513   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1514   24/ 09/ 24 19:04:28 ~docker compose build
+ 1515   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1516   24/ 09/ 24 19:04:28 ~docker compose down
+ 1517   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1518   24/ 09/ 24 19:04:28 ~docker compose build
+ 1519   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1520   24/ 09/ 24 19:04:28 ~docker compose down
+ 1521   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1522   24/ 09/ 24 19:04:28 ~docker compose build
+ 1523   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1524   24/ 09/ 24 19:04:28 ~docker compose down
+ 1525   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1526   24/ 09/ 24 19:04:28 ~docker compose down
+ 1527   24/ 09/ 24 19:04:28 ~touch locusfile.py
+ 1528   24/ 09/ 24 19:04:28 ~touch docker-compose.yml
+ 1529   24/ 09/ 24 19:04:28 ~touch docker-compose.yml
+ 1530   24/ 09/ 24 19:04:28 ~touch DockerFileAB
+ 1531   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1532   24/ 09/ 24 19:04:28 ~docker compose build
+ 1533   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1534   24/ 09/ 24 19:04:28 ~docker compose build
+ 1535   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1536   24/ 09/ 24 19:04:28 ~docker compose down
+ 1537   24/ 09/ 24 19:04:28 ~systemctl stop apache2
+ 1538   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1539   24/ 09/ 24 19:04:28 ~docker compose down
+ 1540   24/ 09/ 24 19:04:28 ~docker system prune -a
+ 1541   24/ 09/ 24 19:04:28 ~docker compose build
+ 1542   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1543   24/ 09/ 24 19:04:28 ~docker ps
+ 1544   24/ 09/ 24 19:04:28 ~docker compose down
+ 1545   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1546   24/ 09/ 24 19:04:28 ~docker compose down
+ 1547   24/ 09/ 24 19:04:28 ~docker compose build
+ 1548   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1549   24/ 09/ 24 19:04:28 ~docker compose down
+ 1550   24/ 09/ 24 19:04:28 ~docker compose build
+ 1551   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1552   24/ 09/ 24 19:04:28 ~docker compose down
+ 1553   24/ 09/ 24 19:04:28 ~tree
+ 1554   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1555   24/ 09/ 24 19:04:28 ~docker ps
+ 1556   24/ 09/ 24 19:04:28 ~docker logs apache-benchmark-P5 
+ 1557   24/ 09/ 24 19:04:28 ~exec ls
+ 1558   24/ 09/ 24 19:04:28 ~cd ..
+ 1559   24/ 09/ 24 19:04:28 ~cd P5_granjaweb/
+ 1560   24/ 09/ 24 19:04:28 ~cd ..
+ 1561   24/ 09/ 24 19:04:28 ~cd P5-g
+ 1562   24/ 09/ 24 19:04:28 ~cd P5-granjaweb/
+ 1563   24/ 09/ 24 19:04:28 ~systemctl stop apache2
+ 1564   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1565   24/ 09/ 24 19:04:28 ~docker ps
+ 1566   24/ 09/ 24 19:04:28 ~docker logs
+ 1567   24/ 09/ 24 19:04:28 ~docker compose down
+ 1568   24/ 09/ 24 19:04:28 ~docker ps
+ 1569   24/ 09/ 24 19:04:28 ~docker ps -a
+ 1570   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1571   24/ 09/ 24 19:04:28 ~docker compose down
+ 1572   24/ 09/ 24 19:04:28 ~cd ..
+ 1573   24/ 09/ 24 19:04:28 ~cd P5-locust/
+ 1574   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1575   24/ 09/ 24 19:04:28 ~docker ps
+ 1576   24/ 09/ 24 19:04:28 ~docker logs p5-locust-master-mtorres26-1 
+ 1577   24/ 09/ 24 19:04:28 ~docker logs p5-locust-worker-mtorres26-1
+ 1578   24/ 09/ 24 19:04:28 ~docker logs p5-locust-worker-mtorres26-2
+ 1579   24/ 09/ 24 19:04:28 ~docker ps
+ 1580   24/ 09/ 24 19:04:28 ~docker compose down
+ 1581   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1582   24/ 09/ 24 19:04:28 ~docker compose down
+ 1583   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1584   24/ 09/ 24 19:04:28 ~docker compose down
+ 1585   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1586   24/ 09/ 24 19:04:28 ~docker compose down
+ 1587   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1588   24/ 09/ 24 19:04:28 ~docker compose down
+ 1589   24/ 09/ 24 19:04:28 ~cd ..
+ 1590   24/ 09/ 24 19:04:28 ~cd P5-ab/
+ 1591   24/ 09/ 24 19:04:28 ~docker logs apache-benchmark-P5 
+ 1592   24/ 09/ 24 19:04:28 ~docker ps
+ 1593   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1594   24/ 09/ 24 19:04:28 ~docker ps
+ 1595   24/ 09/ 24 19:04:28 ~docker logs apache-benchmark-P5 
+ 1596   24/ 09/ 24 19:04:28 ~docker ps
+ 1597   24/ 09/ 24 19:04:28 ~docker compose exec apache-benchmark-P5 /bin/bash 
+ 1598   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1599   24/ 09/ 24 19:04:28 ~docker compose exec apache-benchmark-P5 /bin/bash 
+ 1600   24/ 09/ 24 19:04:28 ~docker logs apache-benchmark-P5 
+ 1601   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1602   24/ 09/ 24 19:04:28 ~docker logs apache-benchmark-P5 
+ 1603   24/ 09/ 24 19:04:28 ~docker compose down
+ 1604   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1605   24/ 09/ 24 19:04:28 ~docker ps
+ 1606   24/ 09/ 24 19:04:28 ~docker logs apache-benchmark-P5 
+ 1607   24/ 09/ 24 19:04:28 ~docker compose down
+ 1608   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1609   24/ 09/ 24 19:04:28 ~docker ps
+ 1610   24/ 09/ 24 19:04:28 ~docker logs apache-benchmark-P5 
+ 1611   24/ 09/ 24 19:04:28 ~docker compose down
+ 1612   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1613   24/ 09/ 24 19:04:28 ~docker logs apache-benchmark-P5 
+ 1614   24/ 09/ 24 19:04:28 ~docker compose down
+ 1615   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1616   24/ 09/ 24 19:04:28 ~docker logs apache-benchmark-P5 
+ 1617   24/ 09/ 24 19:04:28 ~docker compose down
+ 1618   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1619   24/ 09/ 24 19:04:28 ~docker compose down
+ 1620   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1621   24/ 09/ 24 19:04:28 ~docker logs apache-benchmark-P5 
+ 1622   24/ 09/ 24 19:04:28 ~docker compose down
+ 1623   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1624   24/ 09/ 24 19:04:28 ~docker logs apache-benchmark-P5 
+ 1625   24/ 09/ 24 19:04:28 ~docker compose down
+ 1626   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1627   24/ 09/ 24 19:04:28 ~docker logs apache-benchmark-P5 
+ 1628   24/ 09/ 24 19:04:28 ~docker compose down
+ 1629   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1630   24/ 09/ 24 19:04:28 ~docker logs apache-benchmark-P5 
+ 1631   24/ 09/ 24 19:04:28 ~docker compose down
+ 1632   24/ 09/ 24 19:04:28 ~cd ..
+ 1633   24/ 09/ 24 19:04:28 ~ls
+ 1634   24/ 09/ 24 19:04:28 ~git add .
+ 1635   24/ 09/ 24 19:04:28 ~git commit -m "Terminada la practica 5"
+ 1636   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1637   24/ 09/ 24 19:04:28 ~sudo dpkg -i google-chrome-stable_current_amd64.deb 
+ 1638   24/ 09/ 24 19:04:28 ~sudo dpkg -i gitkraken-amd64.deb 
+ 1639   24/ 09/ 24 19:04:28 ~cd
+ 1640   24/ 09/ 24 19:04:28 ~sudo apt purge gitkraken
+ 1641   24/ 09/ 24 19:04:28 ~git init
+ 1642   24/ 09/ 24 19:04:28 ~git clone git@github.com:jav1ergp/TW_Proyecto.git
+ 1643   24/ 09/ 24 19:04:28 ~git clone git@github.com:jav1ergp/TW_Proyecto.git
+ 1644   24/ 09/ 24 19:04:28 ~mysql
+ 1645   24/ 09/ 24 19:04:28 ~mysql -u root -p
+ 1646   24/ 09/ 24 19:04:28 ~mysql -u mtorres262324 -p
+ 1647   24/ 09/ 24 19:04:28 ~mysql -u root -p
+ 1648   24/ 09/ 24 19:04:28 ~sudo apt-get update
+ 1649   24/ 09/ 24 19:04:28 ~sudo apt update
+ 1650   24/ 09/ 24 19:04:28 ~sudo apt-get upgrade
+ 1651   24/ 09/ 24 19:04:28 ~git pull
+ 1652   24/ 09/ 24 19:04:28 ~git add .
+ 1653   24/ 09/ 24 19:04:28 ~git commit -m "Avanzando hasta el log del sistema"
+ 1654   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1655   24/ 09/ 24 19:04:28 ~git pull
+ 1656   24/ 09/ 24 19:04:28 ~touch logs.php
+ 1657   24/ 09/ 24 19:04:28 ~git add .
+ 1658   24/ 09/ 24 19:04:28 ~git commit -m "Falta CSS del log"
+ 1659   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1660   24/ 09/ 24 19:04:28 ~touch administracion.php
+ 1661   24/ 09/ 24 19:04:28 ~cd partials/
+ 1662   24/ 09/ 24 19:04:28 ~touch administracion.php
+ 1663   24/ 09/ 24 19:04:28 ~touch backup.php
+ 1664   24/ 09/ 24 19:04:28 ~git add .
+ 1665   24/ 09/ 24 19:04:28 ~git commit -m "Añadidos ciertos cambios necesarios para el log, falta averiguar mal funcionamiento de CSS"
+ 1666   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1667   24/ 09/ 24 19:04:28 ~touch backup.sql
+ 1668   24/ 09/ 24 19:04:28 ~chmod a+w backup.sql 
+ 1669   24/ 09/ 24 19:04:28 ~touch estiloProyecto.css
+ 1670   24/ 09/ 24 19:04:28 ~git add .
+ 1671   24/ 09/ 24 19:04:28 ~git commit -m "Terminada la posibilidad de realizar una copia de seguridad"
+ 1672   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1673   24/ 09/ 24 19:04:28 ~touch estiloProyecto.css
+ 1674   24/ 09/ 24 19:04:28 ~git add . 
+ 1675   24/ 09/ 24 19:04:28 ~git commit -m "Cambiando el CSS"
+ 1676   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1677   24/ 09/ 24 19:04:28 ~git pull
+ 1678   24/ 09/ 24 19:04:28 ~mysqldump
+ 1679   24/ 09/ 24 19:04:28 ~mysqldump --help
+ 1680   24/ 09/ 24 19:04:28 ~git add .
+ 1681   24/ 09/ 24 19:04:28 ~git commit -m "Terminada la generación de copia de seguridad de la BBDD"
+ 1682   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1683   24/ 09/ 24 19:04:28 ~touch recovery.php
+ 1684   24/ 09/ 24 19:04:28 ~touch restart.php
+ 1685   24/ 09/ 24 19:04:28 ~git add .
+ 1686   24/ 09/ 24 19:04:28 ~git commit -m "Arreglado parte de copia seguridad y terminada la restauracion"
+ 1687   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1688   24/ 09/ 24 19:04:28 ~git add .
+ 1689   24/ 09/ 24 19:04:28 ~git commit -m "Avanzando la admin. de bbdd"
+ 1690   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1691   24/ 09/ 24 19:04:28 ~cd ..
+ 1692   24/ 09/ 24 19:04:28 ~ls
+ 1693   24/ 09/ 24 19:04:28 ~git pull
+ 1694   24/ 09/ 24 19:04:28 ~git add .
+ 1695   24/ 09/ 24 19:04:28 ~git commit -m "Formateando, cambios minimos y sigue fallando la restauracion de la bbd"
+ 1696   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1697   24/ 09/ 24 19:04:28 ~git pull
+ 1698   24/ 09/ 24 19:04:28 ~git add .
+ 1699   24/ 09/ 24 19:04:28 ~git commit -m "Mejorando CSS"
+ 1700   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1701   24/ 09/ 24 19:04:28 ~git add .
+ 1702   24/ 09/ 24 19:04:28 ~git commit -m "Modificando capacidad de acceso a paginas segun rol"
+ 1703   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1704   24/ 09/ 24 19:04:28 ~git add .
+ 1705   24/ 09/ 24 19:04:28 ~git commit -m "Cambio de nombre de la carpeta al indicado en el guion"
+ 1706   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1707   24/ 09/ 24 19:04:28 ~git pull
+ 1708   24/ 09/ 24 19:04:28 ~git add .
+ 1709   24/ 09/ 24 19:04:28 ~git commit -m "Fix"
+ 1710   24/ 09/ 24 19:04:28 ~git add .
+ 1711   24/ 09/ 24 19:04:28 ~git commit -m "Fix"
+ 1712   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1713   24/ 09/ 24 19:04:28 ~git pull
+ 1714   24/ 09/ 24 19:04:28 ~git add .
+ 1715   24/ 09/ 24 19:04:28 ~git pull
+ 1716   24/ 09/ 24 19:04:28 ~git commit -m "Añadiendo documentacion"
+ 1717   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1718   24/ 09/ 24 19:04:28 ~git pull
+ 1719   24/ 09/ 24 19:04:28 ~git status
+ 1720   24/ 09/ 24 19:04:28 ~git init
+ 1721   24/ 09/ 24 19:04:28 ~git remote add origin git@github.com:mtorres26/proyectoCUIA.git
+ 1722   24/ 09/ 24 19:04:28 ~echo "Proyecto de la asignatura Computación Ubicua e Inteligencia Ambiental" > README.md
+ 1723   24/ 09/ 24 19:04:28 ~git add .
+ 1724   24/ 09/ 24 19:04:28 ~git commit -m "First commit"
+ 1725   24/ 09/ 24 19:04:28 ~git branch -M main
+ 1726   24/ 09/ 24 19:04:28 ~git remote add origin git@github.com:mtorres26/proyectoCUIA.git
+ 1727   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1728   24/ 09/ 24 19:04:28 ~touch daniel_es_maricon
+ 1729   24/ 09/ 24 19:04:28 ~sudo apt update
+ 1730   24/ 09/ 24 19:04:28 ~sudo apt upgrade
+ 1731   24/ 09/ 24 19:04:28 ~sudo dpkg -i code_1.90.0-1717531825_amd64.deb 
+ 1732   24/ 09/ 24 19:04:28 ~git add .
+ 1733   24/ 09/ 24 19:04:28 ~git commit -m "Subiendo tarde al haber olvidado subirla"
+ 1734   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1735   24/ 09/ 24 19:04:28 ~touch pruebacss.html
+ 1736   24/ 09/ 24 19:04:28 ~sudo dpkg -i code_1.90.2-1718751586_amd64.deb 
+ 1737   24/ 09/ 24 19:04:28 ~python3 TrueID.py 
+ 1738   24/ 09/ 24 19:04:28 ~touch futguesser.py
+ 1739   24/ 09/ 24 19:04:28 ~touch bbdd.json
+ 1740   24/ 09/ 24 19:04:28 ~touch camara.py
+ 1741   24/ 09/ 24 19:04:28 ~pip install face_recognition
+ 1742   24/ 09/ 24 19:04:28 ~python3 -m pip install --upgrade pip
+ 1743   24/ 09/ 24 19:04:28 ~pwd
+ 1744   24/ 09/ 24 19:04:28 ~pip install speech_recognition
+ 1745   24/ 09/ 24 19:04:28 ~pip install SpeechRecognition
+ 1746   24/ 09/ 24 19:04:28 ~pip install pyttsx3
+ 1747   24/ 09/ 24 19:04:28 ~pyttsx3
+ 1748   24/ 09/ 24 19:04:28 ~touch speak.py
+ 1749   24/ 09/ 24 19:04:28 ~touch faceRecognition.py
+ 1750   24/ 09/ 24 19:04:28 ~touch voiceRecognition.py
+ 1751   24/ 09/ 24 19:04:28 ~pip install pyaudio
+ 1752   24/ 09/ 24 19:04:28 ~clear
+ 1753   24/ 09/ 24 19:04:28 ~pip install pyaudio
+ 1754   24/ 09/ 24 19:04:28 ~pip install sounddevice
+ 1755   24/ 09/ 24 19:04:28 ~python3 futguesser.py 
+ 1756   24/ 09/ 24 19:04:28 ~pip install pyaudio
+ 1757   24/ 09/ 24 19:04:28 ~sudo apt-get update
+ 1758   24/ 09/ 24 19:04:28 ~sudo apt-get install portaudio19-dev
+ 1759   24/ 09/ 24 19:04:28 ~pip install pyaudio
+ 1760   24/ 09/ 24 19:04:28 ~python3 futguesser.py 
+ 1761   24/ 09/ 24 19:04:28 ~ls
+ 1762   24/ 09/ 24 19:04:28 ~git add futguesser.py 
+ 1763   24/ 09/ 24 19:04:28 ~git add img
+ 1764   24/ 09/ 24 19:04:28 ~git commit -m "Empezando proyecto"
+ 1765   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1766   24/ 09/ 24 19:04:28 ~python3 futguesser.py 
+ 1767   24/ 09/ 24 19:04:28 ~touch pruebaMicro.py
+ 1768   24/ 09/ 24 19:04:28 ~python3 pruebaMicro.py 
+ 1769   24/ 09/ 24 19:04:28 ~git add .
+ 1770   24/ 09/ 24 19:04:28 ~git commit -m "Avanzando el reconocimiento de voz"
+ 1771   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1772   24/ 09/ 24 19:04:28 ~python3 futguesser.py 
+ 1773   24/ 09/ 24 19:04:28 ~systemctl --user reiniciar pulseaudio
+ 1774   24/ 09/ 24 19:04:28 ~systemctl --user restart wireplumber pipewire pipewire-pulse
+ 1775   24/ 09/ 24 19:04:28 ~systemctl --user restart pulseaudio
+ 1776   24/ 09/ 24 19:04:28 ~systemctl --user start pulseaudio
+ 1777   24/ 09/ 24 19:04:28 ~gstreamer
+ 1778   24/ 09/ 24 19:04:28 ~clear
+ 1779   24/ 09/ 24 19:04:28 ~git add .
+ 1780   24/ 09/ 24 19:04:28 ~git commit -m "Casi todo, falta puntuaciones y más equipos"
+ 1781   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1782   24/ 09/ 24 19:04:28 ~touch README.md
+ 1783   24/ 09/ 24 19:04:28 ~python3 pruebaMicro.py 
+ 1784   24/ 09/ 24 19:04:28 ~python3 futguesser.py 
+ 1785   24/ 09/ 24 19:04:28 ~git add .
+ 1786   24/ 09/ 24 19:04:28 ~git commit -m "Falta mejorar codigo"
+ 1787   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1788   24/ 09/ 24 19:04:28 ~python3 futguesser.py 
+ 1789   24/ 09/ 24 19:04:28 ~git add .
+ 1790   24/ 09/ 24 19:04:28 ~git commit -m "Terminado teoricamente"
+ 1791   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1792   24/ 09/ 24 19:04:28 ~python3 futguesser.py 
+ 1793   24/ 09/ 24 19:04:28 ~git add .
+ 1794   24/ 09/ 24 19:04:28 ~git commit -m "Entregado"
+ 1795   24/ 09/ 24 19:04:28 ~git push -u origin main
+ 1796   24/ 09/ 24 19:04:28 ~ls
+ 1797   24/ 09/ 24 19:04:28 ~python3 futguesser.py 
+ 1798   24/ 09/ 24 19:04:28 ~mkdir futguesser_v2
+ 1799   24/ 09/ 24 19:04:28 ~python3 futguesser_v2.py 
+ 1800   24/ 09/ 24 19:04:28 ~cd ..
+ 1801   24/ 09/ 24 19:04:28 ~cd futguesser
+ 1802   24/ 09/ 24 19:04:28 ~ls
+ 1803   24/ 09/ 24 19:04:28 ~python3 futguesser.py 
+ 1804   24/ 09/ 24 19:04:28 ~cd ..
+ 1805   24/ 09/ 24 19:04:28 ~cd futguesser_v2/
+ 1806   24/ 09/ 24 19:04:28 ~ls
+ 1807   24/ 09/ 24 19:04:28 ~cd ..
+ 1808   24/ 09/ 24 19:04:28 ~cd futguesser
+ 1809   24/ 09/ 24 19:04:28 ~python3 futguesser_v2.py 
+ 1810   24/ 09/ 24 19:04:28 ~python3 futguesser.py 
+ 1811   24/ 09/ 24 19:04:28 ~cd ..
+ 1812   24/ 09/ 24 19:04:28 ~cd futguesser_v2/
+ 1813   24/ 09/ 24 19:04:28 ~python3 futguesser_v2.py 
+ 1814   24/ 09/ 24 19:04:28 ~python3 futguesser.py 
+ 1815   24/ 09/ 24 19:04:28 ~touch index.html
+ 1816   24/ 09/ 24 19:04:28 ~sudo apt-get update
+ 1817   24/ 09/ 24 19:04:28 ~sudo apt-get upgrade
+ 1818   24/ 09/ 24 19:04:28 ~sudo dpkg -i google-chrome-stable_current_amd64.deb 
+ 1819   24/ 09/ 24 19:04:28 ~touch prueba
+ 1820   24/ 09/ 24 19:04:28 ~cd
+ 1821   24/ 09/ 24 19:04:28 ~node --version
+ 1822   24/ 09/ 24 19:04:28 ~curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.0/install.sh | bash
+ 1823   24/ 09/ 24 19:04:28 ~/bin/python3 /home/mtorres/public_html/prueba
+ 1824   24/ 09/ 24 19:04:28 ~ls
+ 1825   24/ 09/ 24 19:04:28 ~rm pruebacss.html 
+ 1826   24/ 09/ 24 19:04:28 ~ls
+ 1827   24/ 09/ 24 19:04:28 ~cd
+ 1828   24/ 09/ 24 19:04:28 ~nvm install 20
+ 1829   24/ 09/ 24 19:04:28 ~node -v
+ 1830   24/ 09/ 24 19:04:28 ~npm -v
+ 1831   24/ 09/ 24 19:04:28 ~node --version
+ 1832   24/ 09/ 24 19:04:28 ~cd
+ 1833   24/ 09/ 24 19:04:28 ~node -v
+ 1834   24/ 09/ 24 19:04:28 ~npm -v
+ 1835   24/ 09/ 24 19:04:28 ~npm install -g @angular/cli
+ 1836   24/ 09/ 24 19:04:28 ~ng version
+ 1837   24/ 09/ 24 19:04:28 ~sudo apt-get update
+ 1838   24/ 09/ 24 19:04:28 ~sudo apt-get upgrade
+ 1839   24/ 09/ 24 19:04:28 ~ng version
+ 1840   24/ 09/ 24 19:04:28 ~ng new angular-17-app
+ 1841   24/ 09/ 24 19:04:28 ~cd angular-17-app/
+ 1842   24/ 09/ 24 19:04:28 ~code .
+ 1843   24/ 09/ 24 19:04:28 ~ls
+ 1844   24/ 09/ 24 19:04:28 ~tree
+ 1845   24/ 09/ 24 19:04:28 ~tree .
+ 1846   24/ 09/ 24 19:04:28 ~ng serve
+ 1847   24/ 09/ 24 19:04:28 ~ng serve --open
+ 1848   24/ 09/ 24 19:04:28 ~cd angular-17-app/
+ 1849   24/ 09/ 24 19:04:28 ~code .
+ 1850   24/ 09/ 24 19:04:28 ~ng generate component user
+ 1851   24/ 09/ 24 19:04:28 ~ng serve --open
+ 1852   24/ 09/ 24 19:04:28 ~sudo apt install nvidia-driver-430
+ 1853   24/ 09/ 24 19:04:28 ~sudo apt install nvidia-driver-440
+ 1854   24/ 09/ 24 19:04:28 ~sudo apt install nvidia-driver-390
+ 1855   24/ 09/ 24 19:04:28 ~clear
+ 1856   24/ 09/ 24 19:04:28 ~ng serve --open
+ 1857   24/ 09/ 24 19:04:28 ~cd Descargas/
+ 1858   24/ 09/ 24 19:04:28 ~ls
+ 1859   24/ 09/ 24 19:04:28 ~sudo dpkg -i code_1.93.1-1726079302_amd64.deb 
+ 1860   24/ 09/ 24 19:04:28 ~node -v
+ 1861   24/ 09/ 24 19:04:28 ~npm -v
+ 1862   24/ 09/ 24 19:04:28 ~docker -v
+ 1863   24/ 09/ 24 19:04:28 ~mongodb -v
+ 1864   24/ 09/ 24 19:04:28 ~console.log('Hola mundo')
+ 1865   24/ 09/ 24 19:04:28 ~nvm
+ 1866   24/ 09/ 24 19:04:28 ~clear
+ 1867   24/ 09/ 24 19:04:28 ~docker images 
+ 1868   24/ 09/ 24 19:04:28 ~docker image rm locustio/locust:latest 
+ 1869   24/ 09/ 24 19:04:28 ~docker image rm mtorres26-ab-image:p5 
+ 1870   24/ 09/ 24 19:04:28 ~docker image rm mtorres26-apache-image:p5 
+ 1871   24/ 09/ 24 19:04:28 ~docker image rm mtorres26-nginx-image:p5
+ 1872   24/ 09/ 24 19:04:28 ~docker image ls
+ 1873   24/ 09/ 24 19:04:28 ~docker image ls -lai
+ 1874   24/ 09/ 24 19:04:28 ~docker image ls -ai
+ 1875   24/ 09/ 24 19:04:28 ~docker image ls -a
+ 1876   24/ 09/ 24 19:04:28 ~nvm -v
+ 1877   24/ 09/ 24 19:04:28 ~npm -v
+ 1878   24/ 09/ 24 19:04:28 ~clear
+ 1879   24/ 09/ 24 19:04:28 ~node
+ 1880   24/ 09/ 24 19:04:28 ~node -version
+ 1881   24/ 09/ 24 19:04:28 ~node -v
+ 1882   24/ 09/ 24 19:04:28 ~nvm install 22
+ 1883   24/ 09/ 24 19:04:28 ~node -v
+ 1884   24/ 09/ 24 19:04:28 ~docker pull mongo
+ 1885   24/ 09/ 24 19:04:28 ~docker image ls
+ 1886   24/ 09/ 24 19:04:28 ~ls
+ 1887   24/ 09/ 24 19:04:28 ~node hola_mundo.js 
+ 1888   24/ 09/ 24 19:04:28 ~node 'console.log('Hola mundo')
+ 1889   24/ 09/ 24 19:04:28 ~.exit
+ 1890   24/ 09/ 24 19:04:28 ~node 'console.log('Hola mundo')'
+ 1891   24/ 09/ 24 19:04:28 ~node
+ 1892   24/ 09/ 24 19:04:28 ~ls
+ 1893   24/ 09/ 24 19:04:28 ~docker compose up
+ 1894   24/ 09/ 24 19:04:28 ~docker ps
+ 1895   24/ 09/ 24 19:04:28 ~docker compose up
+ 1896   24/ 09/ 24 19:04:28 ~docker compose up -d
+ 1897   24/ 09/ 24 19:04:28 ~docker ps
+ 1898   24/ 09/ 24 19:04:28 ~docker compose down
+ 1899   24/ 09/ 24 19:04:28 ~up -d
+ 1900   24/ 09/ 24 19:04:28 ~docker container ls
+ 1901   24/ 09/ 24 19:04:28 ~touch hola_mundo.js
+ 1902   24/ 09/ 24 19:04:28 ~vim hola_mundo.js 
+ 1903   24/ 09/ 24 19:04:28 ~cat hola_mundo.js 
+ 1904   24/ 09/ 24 19:04:28 ~node hola_mundo.js 
+ 1905   24/ 09/ 24 19:04:28 ~touch docker-compose.yml
+ 1906   24/ 09/ 24 19:04:28 ~gedit docker-compose.yml 
+ 1907   24/ 09/ 24 19:04:28 ~docker compose up
+ 1908   24/ 09/ 24 19:04:28 ~code .
+ 1909   24/ 09/ 24 19:04:28 ~docker pull mongo-express
+ 1910   24/ 09/ 24 19:04:28 ~docker images 
+ 1911   24/ 09/ 24 19:04:28 ~docker compose up
+ 1912   24/ 09/ 24 19:04:28 ~docker compose down
+ 1913   24/ 09/ 24 19:04:28 ~sudo rm -r R2024b
+ 1914   24/ 09/ 24 19:04:28 ~ls
+ 1915   24/ 09/ 24 19:04:28 ~cd Documentos/
+ 1916   24/ 09/ 24 19:04:28 ~ls
+ 1917   24/ 09/ 24 19:04:28 ~unzip matlab_R2024b_Linux.zip -d ./matlab_R2024b_Linux
+ 1918   24/ 09/ 24 19:04:28 ~cd matlab_R2024b_Linux/
+ 1919   24/ 09/ 24 19:04:28 ~ls
+ 1920   24/ 09/ 24 19:04:28 ~file .
+ 1921   24/ 09/ 24 19:04:28 ~xhost +SI:localuser:root
+ 1922   24/ 09/ 24 19:04:28 ~sudo -H ./install
+ 1923   24/ 09/ 24 19:04:28 ~xhost -SI:localuser:root
+ 1924   24/ 09/ 24 19:04:28 ~cd
+ 1925   24/ 09/ 24 19:04:28 ~matlab
+ 1926   24/ 09/ 24 19:04:28 ~cd Documentos/matlab_R2024b_Linux/
+ 1927   24/ 09/ 24 19:04:28 ~xhost +SI:mtorres:root
+ 1928   24/ 09/ 24 19:04:28 ~xhost -SI:mtorres:root
+ 1929   24/ 09/ 24 19:04:28 ~xhost +SI:localuser:root
+ 1930   24/ 09/ 24 19:04:28 ~sudo -H ./install
+ 1931   24/ 09/ 24 19:04:28 ~xhost +SI:localuser:root
+ 1932   24/ 09/ 24 19:04:28 ~sudo -H ./install
+ 1933   24/ 09/ 24 19:04:28 ~xhost -SI:localuser:root
+ 1934   24/ 09/ 24 19:04:28 ~cd
+ 1935   24/ 09/ 24 19:04:28 ~matlab
+ 1936   24/ 09/ 24 19:04:28 ~cd Descargas/
+ 1937   24/ 09/ 24 19:04:28 ~mv 00\ Compresion\ y\ Recuperacion\ Multimedia.rar ../UGR_NATIVO/QuintoCurso/CRIM/
+ 1938   24/ 09/ 24 19:04:28 ~cd ..
+ 1939   24/ 09/ 24 19:04:28 ~cd UGR_NATIVO/QuintoCurso/CRIM/
+ 1940   24/ 09/ 24 19:04:28 ~ls
+ 1941   24/ 09/ 24 19:04:28 ~cd
+ 1942   24/ 09/ 24 19:04:28 ~matlab
+ 1943   24/ 09/ 24 19:04:28 ~sudo apt-get update
+ 1944   24/ 09/ 24 19:04:28 ~sudo apt-get upgrade
+ 1945   24/ 09/ 24 19:04:28 ~sudo apt autoremove
+ 1946   24/ 09/ 24 19:04:28 ~sudo apt-get update
+ 1947   24/ 09/ 24 19:04:28 ~sudo apt-get upgrade
+ 1948   24/ 09/ 24 19:04:28 ~cd UGR_NATIVO/QuintoCurso/ISE/
+ 1949   24/ 09/ 24 19:04:28 ~cd
+ 1950   24/ 09/ 24 19:04:28 ~cd .ssh
+ 1951   24/ 09/ 24 19:04:28 ~ls
+ 1952   24/ 09/ 24 19:04:28 ~cat id_ed25519
+ 1953   24/ 09/ 24 19:04:28 ~cat id_ed25519.pub
+ 1954   24/ 09/ 24 19:04:28 ~clear
+ 1955   24/ 09/ 24 19:04:28 ~cat id_ed25519.pub
+ 1956   24/ 09/ 24 19:04:28 ~cd
+ 1957   24/ 09/ 24 19:04:28 ~cd UGR_NATIVO/QuintoCurso/ISE/
+ 1958   24/ 09/ 24 19:04:28 ~ls
+ 1959   24/ 09/ 24 19:04:28 ~git clone git@github.com:mtorres26/practicasISE.git
+ 1960   24/ 09/ 24 19:04:28 ~ls
+ 1961   24/ 09/ 24 19:04:28 ~ls -l
+ 1962   24/ 09/ 24 19:04:28 ~cd practicasISE/
+ 1963   24/ 09/ 24 19:04:28 ~ls
+ 1964   24/ 09/ 24 19:04:28 ~ls -a
+ 1965   24/ 09/ 24 19:04:28 ~ls -la
+ 1966   24/ 09/ 24 19:04:28 ~git status
+ 1967   24/ 09/ 24 19:04:28 ~clear
+ 1968   24/ 09/ 24 19:04:28 ~git status
+ 1969   24/ 09/ 24 19:04:28 ~vim hola.py
+ 1970   24/ 09/ 24 19:04:28 ~git status
+ 1971   24/ 09/ 24 19:04:28 ~git add hola.py 
+ 1972   24/ 09/ 24 19:04:28 ~git status
+ 1973   24/ 09/ 24 19:04:28 ~cd .git
+ 1974   24/ 09/ 24 19:04:28 ~ls
+ 1975   24/ 09/ 24 19:04:28 ~cd objects/
+ 1976   24/ 09/ 24 19:04:28 ~la
+ 1977   24/ 09/ 24 19:04:28 ~ls
+ 1978   24/ 09/ 24 19:04:28 ~cd ..
+ 1979   24/ 09/ 24 19:04:28 ~git status
+ 1980   24/ 09/ 24 19:04:28 ~git commit -m "Añadido fichero hola.py"
+ 1981   24/ 09/ 24 19:04:28 ~git status
+ 1982   24/ 09/ 24 19:04:28 ~git log
+ 1983   24/ 09/ 24 19:04:28 ~git status
+ 1984   24/ 09/ 24 19:04:28 ~vim hola.py 
+ 1985   24/ 09/ 24 19:04:28 ~git status
+ 1986   24/ 09/ 24 19:04:28 ~git add hola.py 
+ 1987   24/ 09/ 24 19:04:28 ~git status
+ 1988   24/ 09/ 24 19:04:28 ~git commit -m "añadida funcion hola() de prueba en clase"
+ 1989   24/ 09/ 24 19:04:28 ~vim hola.java
+ 1990   24/ 09/ 24 19:04:28 ~git status
+ 1991   24/ 09/ 24 19:04:28 ~vim hola.py
+ 1992   24/ 09/ 24 19:04:28 ~git status
+ 1993   24/ 09/ 24 19:04:28 ~git add hola.py hola.java
+ 1994   24/ 09/ 24 19:04:28 ~git status
+ 1995   24/ 09/ 24 19:04:28 ~git commit -m "Cambios en los dos ficheros"
+ 1996   24/ 09/ 24 19:04:28 ~git status
+ 1997   24/ 09/ 24 19:04:28 ~git log
+ 1998   24/ 09/ 24 19:04:39 ~cd UGR_NATIVO/QuintoCurso/ISE/practicasISE/
+ 1999   24/ 09/ 24 19:05:05 ~vim hola.r
+ 2000   24/ 09/ 24 19:05:17 ~git status
+ 2001   24/ 09/ 24 19:06:35 ~git add hola.r 
+ 2002   24/ 09/ 24 19:06:57 ~git commit -m "Añado hola.r"
+ 2003   24/ 09/ 24 19:07:00 ~git status
+ 2004   24/ 09/ 24 19:07:16 ~git push
+ 2005   24/ 09/ 24 19:11:15 ~export PS1="[ \u@\h:\w ] \D{ %F} \t $ "
+ 2006   24/ 09/ 24 19:11:41 ~[200~export HISTTIMEFORMAT=" %d/ %m/ %y %T "~
+ 2007   24/ 09/ 24 19:11:49 ~export HISTTIMEFORMAT=" %d/ %m/ %y %T "~
+ 2008   24/ 09/ 24 19:12:19 ~history
+ 2009   24/ 09/ 24 19:13:18 ~history > history-P1-L1.txt
